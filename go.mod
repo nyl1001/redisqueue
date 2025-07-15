@@ -1,4 +1,4 @@
-module github.com/go-admin-team/redisqueue/v2
+module github.com/nyl1001/redisqueue/v2
 
 go 1.20
 
